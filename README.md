@@ -4,8 +4,16 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germalonso/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/germalonso/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCem-JZakyK1p4IflvxKhc-g)
+<div>
+  <a href="https://github.com/Germalonso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Germalonso&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-![Alonso Germano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Germalonso&show_icons=true&theme=tokyonight)
+##
+![Snake animation](https://github.com/Germalonso/Germalonso/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ### Tecnologias que faço uso 🌌
 
