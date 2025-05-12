@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Alonso Germano 🙋🏻‍♂️👨‍💻
+### Olá! Eu sou o .Alonso Germano 🙋🏻‍♂️👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germalonso/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/germalonso/)
