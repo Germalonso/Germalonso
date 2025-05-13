@@ -11,7 +11,7 @@
 </div>
 
 ##
-![Snake animation](https://raw.githubusercontent.com/Germalonso/Germalonso/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Germalonso/Germalonso/blob/output/github-contribution-grid-snake.svg)
 ##
 
 ## Tecnologias que faço uso 🌌
