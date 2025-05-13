@@ -14,7 +14,7 @@
 ![Snake animation](https://raw.githubusercontent.com/Germalonso/Germalonso/output/github-contribution-grid-snake.svg)
 ##
 
-## Tecnologias que faço uso 🌌
+# Tecnologias que faço uso 🌌
 
 ## ☁️ Cloud
 
