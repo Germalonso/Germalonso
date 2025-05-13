@@ -16,8 +16,6 @@
 
 ### Tecnologias que faço uso 🌌
 
-### 🚀 Tecnologias que uso como Engenheiro de Dados:
-
 ## ☁️ Cloud
 
 <div style="display: inline_block"><br>
