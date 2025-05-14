@@ -12,7 +12,7 @@
 
 ##
 <img src="https://raw.githubusercontent.com/Germalonso/Germalonso/output/github-contribution-grid-snake.svg" width="100%" />
-##
+
 
 ## Tecnologias que faço uso 🌌
 
