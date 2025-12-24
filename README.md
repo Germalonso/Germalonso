@@ -1,7 +1,5 @@
 
 ### Olá! Eu sou o Alonso Germano 🙋🏻‍♂️👨‍💻
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/alonso-moura-germano)
-
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germalonso/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/germalonso/)
@@ -14,6 +12,15 @@
 
 ##
 <img src="https://raw.githubusercontent.com/Germalonso/Germalonso/output/github-contribution-grid-snake.svg" width="100%" />
+
+## ☁️ Certificações
+
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](www.credly.com/users/alonso-moura-germano)
+
+✔ Fundamentos de Cloud Computing  
+✔ AWS Core Services (EC2, S3, RDS, IAM, VPC)  
+✔ Segurança, Billing e Pricing  
+✔ Arquiteturas em nuvem  
 
 
 ## Tecnologias que faço uso 🌌
