@@ -2,12 +2,6 @@
 
 <img src="assets/banner.svg" alt="Terminal com pipeline.sh, Alonso Moura Germano, dados, back-end e automação com IA" width="100%" />
 
-**Aberto a estágio e júnior em tecnologia** · Uberlândia, MG · Ciência da Computação na UFU
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DFC9A0?style=flat-square&logo=linkedin&logoColor=0B0A09)](https://www.linkedin.com/in/germalonso/)
-[![E-mail](https://img.shields.io/badge/E--mail-DFC9A0?style=flat-square&logo=gmail&logoColor=0B0A09)](mailto:alonsodobusiness@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-DFC9A0?style=flat-square&logo=aboutdotme&logoColor=0B0A09)](https://alonsogermano.com)
-
 <img src="assets/sobre.svg" alt="Sobre. Aos 4 anos tentei fazer um Dell antigo rodar jogos que ele não aguentava, e descobri que gostava mais de entender como as coisas funcionam por dentro do que de só usá-las. Hoje curso Ciência da Computação na UFU. No estágio da Compass UOL construí um pipeline de dados de ponta a ponta na AWS e, por conta própria, um sistema de gestão hoteleira com um agente de IA." width="100%" />
 
 <img src="assets/projetos.svg" alt="Projetos. recanto-karibe, projeto próprio, com NestJS, React, PostgreSQL, n8n e Docker. Data lake na AWS, projeto do estágio na Compass UOL, com S3, Lambda, Glue, PySpark e Athena. Projeto-EMR, projeto de curso, com EMR, Flink e Terraform." width="100%" />
