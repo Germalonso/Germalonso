@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 139 57" width="139" height="57" role="img" aria-label="Enviar e-mail para o Alonso" font-family="'JetBrains Mono', ui-monospace, 'Cascadia Mono', Consolas, 'Courier New', monospace">
+<title>Enviar e-mail para o Alonso</title>
+<rect x="5" y="5" width="134" height="52" fill="#5D5039"/>
+<rect x="1.5" y="1.5" width="131" height="49" fill="#0B0A09" stroke="#DFC9A0" stroke-width="3"/>
+<rect x="22" y="18" width="24" height="16" fill="#F4EBDA"/><rect x="24" y="20" width="2" height="2" fill="#0B0A09"/><rect x="26" y="22" width="2" height="2" fill="#0B0A09"/><rect x="28" y="24" width="4" height="2" fill="#0B0A09"/><rect x="42" y="20" width="2" height="2" fill="#0B0A09"/><rect x="40" y="22" width="2" height="2" fill="#0B0A09"/><rect x="36" y="24" width="4" height="2" fill="#0B0A09"/>
+<text x="58" y="32" font-size="15" font-weight="700" fill="#F4EBDA">E-mail</text>
+</svg>

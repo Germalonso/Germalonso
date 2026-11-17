@@ -2,9 +2,17 @@
 
 <img src="assets/banner.svg" alt="Terminal com pipeline.sh, Alonso Moura Germano, dados, back-end e automação com IA" width="100%" />
 
+<a href="https://www.linkedin.com/in/germalonso/"><img src="assets/btn-linkedin.svg" alt="LinkedIn do Alonso" width="157" height="57" /></a>
+<a href="mailto:alonsodobusiness@gmail.com"><img src="assets/btn-email.svg" alt="Enviar e-mail para o Alonso" width="139" height="57" /></a>
+<a href="https://alonsogermano.com"><img src="assets/btn-portfolio.svg" alt="Portfólio alonsogermano.com" width="166" height="57" /></a>
+
 <img src="assets/sobre.svg" alt="Sobre. Aos 4 anos tentei fazer um Dell antigo rodar jogos que ele não aguentava, e descobri que gostava mais de entender como as coisas funcionam por dentro do que de só usá-las. Hoje curso Ciência da Computação na UFU. No estágio da Compass UOL construí um pipeline de dados de ponta a ponta na AWS e, por conta própria, um sistema de gestão hoteleira com um agente de IA." width="100%" />
 
 <img src="assets/projetos.svg" alt="Projetos. recanto-karibe, projeto próprio, com NestJS, React, PostgreSQL, n8n e Docker. Data lake na AWS, projeto do estágio na Compass UOL, com S3, Lambda, Glue, PySpark e Athena. Projeto-EMR, projeto de curso, com EMR, Flink e Terraform." width="100%" />
+
+<a href="https://github.com/Germalonso/recanto-karibe"><img src="assets/btn-recanto.svg" alt="recanto-karibe no GitHub" width="211" height="57" /></a>
+<a href="https://github.com/Germalonso/COMPASSUOL-AWS-DATA-ENGINEERING"><img src="assets/btn-datalake.svg" alt="Data lake na AWS no GitHub" width="229" height="57" /></a>
+<a href="https://github.com/Germalonso/Projeto-EMR"><img src="assets/btn-emr.svg" alt="Projeto-EMR no GitHub" width="184" height="57" /></a>
 
 <img src="assets/stack.svg" alt="Stack. Dados e cloud com Python, SQL, PySpark, S3, Glue, Lambda, Athena e QuickSight. Back-end e front-end com TypeScript, NestJS, React, PostgreSQL e Docker. Automação e IA com n8n, agentes de IA e Claude Code. De curso, sem projeto próprio ainda, Kafka, Hadoop e Kubernetes." width="100%" />
 
