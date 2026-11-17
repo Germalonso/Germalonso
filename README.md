@@ -6,8 +6,6 @@
 
 <img src="assets/projetos.svg" alt="Projetos. recanto-karibe, projeto próprio, com NestJS, React, PostgreSQL, n8n e Docker. Data lake na AWS, projeto do estágio na Compass UOL, com S3, Lambda, Glue, PySpark e Athena. Projeto-EMR, projeto de curso, com EMR, Flink e Terraform." width="100%" />
 
-[recanto-karibe](https://github.com/Germalonso/recanto-karibe) · [Data lake na AWS](https://github.com/Germalonso/COMPASSUOL-AWS-DATA-ENGINEERING) · [Projeto-EMR](https://github.com/Germalonso/Projeto-EMR)
-
 <img src="assets/stack.svg" alt="Stack. Dados e cloud com Python, SQL, PySpark, S3, Glue, Lambda, Athena e QuickSight. Back-end e front-end com TypeScript, NestJS, React, PostgreSQL e Docker. Automação e IA com n8n, agentes de IA e Claude Code. De curso, sem projeto próprio ainda, Kafka, Hadoop e Kubernetes." width="100%" />
 
 <img src="assets/trajetoria.svg" alt="Trajetória. 05/2025 a 11/2025, estagiário de Engenharia de Dados na Compass UOL. 07/2023 a 12/2027, Ciência da Computação na UFU, com previsão de formatura. 01/2019 a 06/2023, gerente de eventos na pousada Recanto Karibe, de onde veio o projeto principal." width="100%" />
