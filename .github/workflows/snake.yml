@@ -1,0 +1,36 @@
+name: Gerar a cobrinha
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  gerar-cobrinha:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Gera dois SVGs com a paleta da landing page.
+      # Modo escuro. Fundo vazio em marrom, comida em tons de creme, cobra clara.
+      # Modo claro. Mesma ideia invertida, com a cobra escura.
+      - name: Gerar o grid de contribuições como cobra
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-dark.svg?color_snake=#DFC9A0&color_dots=#2A251E,#5D5039,#9C8456,#B29B71,#F4EBDA
+            dist/github-snake.svg?color_snake=#0B0A09&color_dots=#EDE3CE,#DFC9A0,#B29B71,#9C8456,#5D5039
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v3.2.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

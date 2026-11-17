@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="O café está pronto. Vamos conversar?">
+  <title>O café está pronto</title>
+  <style>
+    .mono { font-family: 'JetBrains Mono', ui-monospace, 'Cascadia Mono', Consolas, 'Courier New', monospace; }
+    .steam { fill: #B29B71; opacity: 0; animation: rise 3s ease-in-out infinite; }
+    .s2 { animation-delay: 1s; }
+    @keyframes rise { 0% { opacity: 0; transform: translateY(6px) } 40% { opacity: .9 } 100% { opacity: 0; transform: translateY(-8px) } }
+    @media (prefers-reduced-motion: reduce) { .steam { animation: none; opacity: .8; } }
+  </style>
+  <rect width="900" height="120" fill="#0B0A09"/>
+  <rect x="2" y="2" width="896" height="116" fill="none" stroke="#DFC9A0" stroke-width="3"/>
+  <g transform="translate(48 30)">
+    <rect class="steam" x="14" y="-4" width="5" height="10"/>
+    <rect class="steam s2" x="30" y="-8" width="5" height="10"/>
+    <rect x="6" y="14" width="48" height="42" fill="#DFC9A0"/>
+    <rect x="6" y="14" width="48" height="6" fill="#F4EBDA"/>
+    <rect x="54" y="24" width="14" height="6" fill="#DFC9A0"/>
+    <rect x="62" y="24" width="6" height="22" fill="#DFC9A0"/>
+    <rect x="54" y="40" width="14" height="6" fill="#DFC9A0"/>
+    <rect x="12" y="26" width="36" height="6" fill="#5D5039"/>
+    <rect x="0" y="56" width="60" height="6" fill="#9C8456"/>
+  </g>
+  <text class="mono" x="140" y="58" fill="#F4EBDA" font-size="26" font-weight="700">O café está pronto.</text>
+  <text class="mono" x="140" y="88" fill="#DFC9A0" font-size="16">Vamos conversar sobre dados, um projeto ou uma vaga?</text>
+</svg>
